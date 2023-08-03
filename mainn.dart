@@ -5,16 +5,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        //trying
-        // This is the
-// changing the primarySwatch below to Colors.green and then invoke
-        // "hot reload" (press "r" in the console where you ran "flutter run",
-        // Notice that the counter didn't reset back to zero; the application
-         // Notice that the counter didn't reset back to zero; the application
+  Widget build(BuildContext context) {zero; the application
         // is not restarted.
 }
 

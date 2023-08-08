@@ -14,7 +14,18 @@ class MyApp extends StatelessWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {zero; the application
+        // is not restarted.
 
+  // This widget is the home page of your application. It is stateful, meaning
+  // that it has a State object (defined below) that contains fields that affect
+  // how it looks.
+  @override
+  _MyHomePageState createState() => _MyHomePageState();
+}
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 

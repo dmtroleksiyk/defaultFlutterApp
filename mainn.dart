@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
-  // This widget is the root of your application.
-  // This widget is the root of your application.
-  @override
   Widget build(BuildContext context) {zero; the application
         // is not restarted.
 telessWidget {

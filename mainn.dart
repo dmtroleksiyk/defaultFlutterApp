@@ -8,7 +8,6 @@ telessWidget {
   // This widget is the root of your application.
         // is not restarted.
 
-  // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (tion. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
   // how it looks.

@@ -9,8 +9,7 @@ telessWidget {
         // is not restarted.
 
   // that it has a State object (tion. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
+  // that it has a State object (defined below) that contains fields that 
   @override
   _MyHomePageState createState() => _MyHomePageState();
   @override

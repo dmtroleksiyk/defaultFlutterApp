@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 telessWidget {
   // This widget is the root of your application.
 telessWidget {
-  // This widget is the root of your application.
+  // This widget is the root of your applicatio
         // is not restarted.
 
   // that it has a State object (tion. It is stateful, meaning

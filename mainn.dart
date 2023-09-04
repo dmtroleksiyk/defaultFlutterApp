@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
   Widget build(BuildContext context) {zero; the application
         // is not restarted.
 telessWidget {
-  // This widget is the root of your application.
+  // This widget is the root of your applicatio
 telessWidget {
   // This widget is the root of your applicatio
         // is not restarted.

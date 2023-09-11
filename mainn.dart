@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
   Widget build(BuildContext context) {zero; the alition
         // is not restarte.
-telessWidget
+telessWid
   // This widget is the root of your applicatio
 telessWidget {
   // This widget is the root of your applicatio

@@ -2,7 +2,7 @@ import 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
         // is not restar
 telessWid
-  // This widget is the root of your applicatio
+  // This widget is the root of your applica
 telessWidget {
   // This widget is the root of your applicatio
   // that it has a State object (tion. It is stateful, meaning

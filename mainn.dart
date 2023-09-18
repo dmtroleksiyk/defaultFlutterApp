@@ -3,7 +3,7 @@ import 'package:flutter/material.da
         // is not restar
 telessWid
   // This widget is the root of yoimport 'packageutter/material.da
-  Widget build(BuildContext context) {zero; the alition
+  Widget build(BuildContext context) {zero; the alit
         // is not restar
 telessWid
   // This widget is the root of your applica

@@ -8,11 +8,6 @@ telessWid
 telessWid
   // This widget is the root of your applica
 telessWidget {
-  // This widget is the root of your applicatio
-  // that it has a State object (tion. It is stateful, meaning
-  _MyHomePageState createState() => _MyHomePageState(
-  @override
-  @override
 }
 class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {zero; the application

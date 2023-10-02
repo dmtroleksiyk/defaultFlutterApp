@@ -3,8 +3,6 @@ import 'package:flutter/material.da
         // is not restar
 telessWid
   // This widget is the root of yoimport 'packager/material.da
-  Widget build(BuildContext context) {zero; the alit
-  // This widget is the root of your ap
 class MyApp extends StatelessWidg
   Widget build(BuildContext context) {zero; the application
   // that it has a State object (defined below) that contains fields that affect

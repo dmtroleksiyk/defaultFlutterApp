@@ -2,8 +2,6 @@ import 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
         // is not restar
 }
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
 
       // This call to setState tells the Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below

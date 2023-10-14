@@ -6,9 +6,6 @@ import 'package:flutter/material.da
       // This call to setState tells the Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated values. If we changed
-  }
-
-    // The Flutter framework has been optimized to make rerunning build methods
     // than having to individually change instances of widgets.
     return Scaffold(
       appBar: AppBar(

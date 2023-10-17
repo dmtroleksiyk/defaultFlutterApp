@@ -11,9 +11,7 @@ import 'package:flutter/material.da
         // the App.build method, and use it to set our appbar title.
         title: Text(widget.title),
       ),
-  // This widget is the root of your application.
-  @override
-  Widget build(BuildContext context) {zero; the application
+  // This widget is the root of your application.n
         // is not restarted.
 
       body: Center(

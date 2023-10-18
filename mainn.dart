@@ -9,13 +9,7 @@ import 'package:flutter/material.da
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),
-      ),
-  // This widget is the root of your application.n
-        // is not restarted.
-
-      body: Center(
-        // Center is a layout widget. It takes a single child and positions it
+        title: Text(widget.title), and positions it
         // in the middle of the parent.
         child: Column(
           // Column is also a layout widget. It takes a list of children and

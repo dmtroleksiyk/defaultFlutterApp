@@ -7,9 +7,7 @@ import 'package:flutter/material.da
       // changed in this State, which causes it to rerun the build method below
     return Scaffold(
       appBar: AppBar(
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title), and positions it
+        // Here we take the value from the MyHomit
         // in the middle of the parent.
         child: Column(
           // Column is also a layout widget. It takes a list of children and

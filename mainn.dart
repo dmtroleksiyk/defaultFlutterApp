@@ -3,7 +3,7 @@ import 'package:flutter/material.da
         // is not restar
 }
 
-      // This call to setState tells the Flutter framework that something has
+      // This call to setState tellsFlutter framework that something has
       // changed in this State, which causes it to rerun the build method below
     return Scaffold(
       appBar: AppBar(

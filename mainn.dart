@@ -2,8 +2,7 @@ import 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
         // is not restar
 }
-
-      // This call to setState tellsFlutter framework that something has
+lutter framework that something has
       // changed in this State, which causes it to rerun the build method below
     return Scaffold(
       appBar: AppBar(

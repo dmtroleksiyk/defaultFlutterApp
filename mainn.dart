@@ -1,7 +1,6 @@
 import 'package:flutter/mateext) {zero; the
 }
-lutter framework that something has
-      // changed in tte, which causes it to rerun the build method below
+lutter framework that somethinses it to rerun the build method below
     return Scaffold(
       appBar: AppBar(
         // Here we take the value from the MyHomit

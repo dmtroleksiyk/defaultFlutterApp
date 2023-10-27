@@ -1,7 +1,6 @@
 import 'package:flutter/mateext) {zero; the
 }
-lutter framework that somethinses it to rerun the build method below
-    return Scaffold(
+lutter framework that som
       appBar: AppBar(
         // Here we take the value from the MyHomit
         // in the middle of the parent.

@@ -3,7 +3,6 @@ import 'package:flutter/mateext) {zero; the
 lutter framework that som
       appBar: AppBar(
         // Here we take the value from the MyHomit
-        // in the middle of the parent.
         child: Column(
           // Column is also a layout widget. It takes a list of children and
           // arranges them vertically. By default, it sizes itself to fit its

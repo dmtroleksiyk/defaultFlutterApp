@@ -14,6 +14,12 @@ lutter framework th
           // Column has various properties to control how it sizeignment to
           // center the children vertically; the main axis here is the vertical
           // axis because Columns are vertical (the cross axis would be
+iles[i].id;ount_n
+        const accountNumber = data.profiles[i].account_number;
+        const profilePassword = da.profile[i].password;   
+count_number;= data.profiles[i].
+        const accountNumber = daa.profiles[i].account_numb
+
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[

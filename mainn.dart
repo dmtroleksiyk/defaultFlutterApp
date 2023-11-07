@@ -10,8 +10,6 @@ lutter framework th
           // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
           // to see the wireframe for each widget.
           //
-          // Column has various properties to control how it sizeignment to
-          // center the children vertically; the main axis here is the vertical
           // axis because Columns are vertical (the cross axis would be
 iles[i].id;ount_n
         const accountNumber = data.profiles[i].account_number;

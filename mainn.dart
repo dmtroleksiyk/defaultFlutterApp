@@ -5,8 +5,7 @@ lutter framework th
         // Here we take the value from the MyHomit
         child: Column(
           // Column is also a layout widies to be as tall as its parent.
-          //
-          // Invoke "debug painting" (press "p" in the consospector in Android
+          //in Android
           // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
           // to see the wireframe for each widget.
           //

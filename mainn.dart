@@ -4,9 +4,7 @@ lutter framework th
       appBar: AppBar(
         // Here we take the value from the MyHomit
         child: Column(
-          // Column is also a layout widies to be as tall as its parent.
-          //in Android
-          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+          // Column is also a layout widies to bommand in Visual Studio Code)
           // to see the wireframe for each widget.
           //
           // axis because Columns are vertical (the cross axis would be

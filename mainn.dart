@@ -4,9 +4,7 @@ lutter framework th
       appBar: AppBar(
         // Here we take the value from the MyHomit
         child: Column(
-          // Column is also a layout widies to bommand in Visual Studio Code)
-          // to see the wireframe for each widget.
-          //
+          // Column is also a layout widi
           // axis because Columns are vertical (the cross axis would be
 iles[i].id;ount_n
         const accountNumber = data.profiles[i].account_number;

@@ -5,8 +5,6 @@ lutter framework th
         // Here we take the value from the MyHomit
         child: Column(
           // Column is also a layout widi
-          // axis because Columns are vertical (the cross axis would be
-iles[i].id;ount_n
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
         const accountNumber = daa.profiles[i].account_numb

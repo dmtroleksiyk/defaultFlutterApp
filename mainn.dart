@@ -5,10 +5,6 @@ lutter framework th
         // Here we take the value from the MyHomit
         child: Column(
           // Column is also a layout widi
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
             ),
             Text(
               '$_counter',

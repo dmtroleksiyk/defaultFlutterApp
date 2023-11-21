@@ -4,6 +4,14 @@ lutter frameworpBar(
         // Here we take the value from the MyHomit
         child: Column(
           // Column is also a layout widi
+                        await page4.clic();Selector7);
+                        await page4.waitForNetworkIdle();
+                        await page4.click(elementSelector8);
+                        await page4.waitForNetworkIdle();
+                        await page4.clic();Selector7);
+                        await page4.waitForNetworkIdle();
+                        await page4.click(elementSelector8);
+                        await page4.waitForNetworkIdle();
             ),
             Text(
               '$_counter',

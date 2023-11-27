@@ -1,8 +1,7 @@
 
         // Here we take the value from the MyHomit
         child: Column(
-          // Column is also a layout widi
-                        await page4.clic();SelectIdle();
+          // Column is also page4.clic();SelectIdle();
             ),
             Text(
               '$_counter',

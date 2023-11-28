@@ -1,6 +1,5 @@
 
-        // Here we take the value from the MyHomit
-        child: Column(
+        // Here we take the 
           // Column is also page4.clic();SelectIdle();
             ),
             Text(

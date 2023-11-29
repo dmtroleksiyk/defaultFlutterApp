@@ -2,12 +2,6 @@
         // Here we take the 
           // Column is also page4.clic();SelectIdle();
             ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.display1,
-            ),
-          ],
-        ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,

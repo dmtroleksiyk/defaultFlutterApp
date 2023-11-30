@@ -1,6 +1,4 @@
-
-        // Here we take the 
-          // Column is also page4.clic();SelectIdle();
+lso page4.clic();SelectIdle();
             ),
       ),
       floatingActionButton: FloatingActionButton(

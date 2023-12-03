@@ -1,8 +1,7 @@
 lso page4.clic();SelectIdle();
             ),
       ),
-      floatingActionButton: FloatingActionB
-        tooltip: 'Increment',
+      floatingActionButtot',
         child: Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );

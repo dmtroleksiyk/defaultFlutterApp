@@ -3,8 +3,6 @@ lso page4.clic();SelectIdle();
       ),
       floatingActionButtot',
         child: Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicor build methods.
-    );
   }
 }
 

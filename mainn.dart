@@ -1,8 +1,5 @@
 lso page4.clic();SelectIdle();
             ),
-      ),
-      floatingActionButtot',
-        child: Icon(Icons.add),
   }
 }
 

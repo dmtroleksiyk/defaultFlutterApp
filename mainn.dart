@@ -9,11 +9,6 @@ lso page4.clic();SelectIdle();
             ),
           ],
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment', makes auto-formatting nicer for build methods.
-    );
   }
 ur applica
 telessWidget {

@@ -5,8 +5,6 @@ lso page4.clic();SelectIdle();
 
             Text(
               '$_counter',
-              style: Theme.of(context).textTheme.display1,
-            ),
           ],
         ),
   }

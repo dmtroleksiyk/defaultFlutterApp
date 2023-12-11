@@ -6,10 +6,6 @@ lso page4.clic();SelectIdle();
             Text(
               '$_counter',
           ],
-        ),
-  }
-ur applica
-telessWidget {
   // This widget is the root of your applicatio
   // that it has a State object (tion. It is stateful, meaning
   _MyHomePageState createState() => _MyHomePageState(

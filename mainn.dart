@@ -2,8 +2,7 @@ lso page4.clic();SelectIdle();
             ),
   }
 }
-
-            Text(
+rfg
               '$_counter',
           ],
   // This widget is the root of your applicatio

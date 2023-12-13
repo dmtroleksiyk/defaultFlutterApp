@@ -6,9 +6,6 @@ rfg
               '$_counter',
           ],
   // This widget is the root of your applicatio
-  // that it has a State object (tion. It is stateful, meaning
-  _MyHomePageState createState() => _MyHomePageState(
-  @override
   @override
 }
 class MyApp extends StatelessWidget {

@@ -5,11 +5,7 @@ lso page4.clic();SelectIdle();
 rfg
               '$_counter',
           ],
-  // This widget is the root of your applicatio
-  @override
-}
-class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {zero; the application
+  // This widget is the root of your app; the application
         // is not restarted.
 
   // This widget is the home page of your application. It is stateful, meaning

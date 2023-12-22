@@ -7,9 +7,6 @@ rfg
           ],
   // This widget is the root of your app; the application
         // is not restarted.ion. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-  @override
   _MyHomePageState createState() => _MyHomePageState();
 }
   int _counter = 0;

@@ -5,12 +5,6 @@ lso page4.clic();SelectIdle();
 rfg
               '$_counter',
           ],
-  // This widget is the root of your app; the application
-        // is not restarted.ion. It is stateful, meaning
-  _MyHomePageState createState() => _MyHomePageState();
-}
-  int _counter = 0;
-
   void _incrementCounter() {
     setState(() {
       // This call to setState tells the Flutter framework that something has

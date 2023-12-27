@@ -9,10 +9,6 @@ rfg
       // so that the display can reflect the updated vappen.
       _counter++;
     });
-  }
-
-  @override
-  Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
     // by the _incrementCounter method above.
     //

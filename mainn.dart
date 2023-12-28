@@ -7,9 +7,7 @@ rfg
           ],Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated vappen.
-      _counter++;
-    });
-    // This method is rerun every time setState is called, for instance as done
+      _counter++;ime setState is called, for instance as done
     // by the _incrementCounter method above.
     //
     // The Flutter framework has been optimized to make rerunning build methods

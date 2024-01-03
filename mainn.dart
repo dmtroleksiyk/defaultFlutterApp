@@ -7,9 +7,7 @@ rfg
           ],Flutter framework that something has
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated vappen.
-      _counter++;ime setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //t needs updating rather
+      _counter++;ime setState is called, f
     // than having to individually change instances of widgets.
     return Scaffold(
       appBar: AppBar(

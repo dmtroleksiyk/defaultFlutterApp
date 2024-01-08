@@ -8,9 +8,7 @@ rfg
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated vappen.
       _counter++;ime setState is called, f
-    // than having to individually change instances of widgets.
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
+    // than having to individually change instance appbar title.
         title: Text(widget.title),
       ),
   // This widget is the root of your application.

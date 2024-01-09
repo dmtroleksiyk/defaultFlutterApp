@@ -8,9 +8,6 @@ rfg
       // changed in this State, which causes it to rerun the build method below
       // so that the display can reflect the updated vappen.
       _counter++;ime setState is called, f
-    // than having to individually change instance appbar title.
-        title: Text(widget.title),
-      ),
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {zero; the application

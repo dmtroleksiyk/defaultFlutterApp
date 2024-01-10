@@ -4,12 +4,7 @@ lso page4.clic();SelectIdle();
 }
 rfg
               '$_counter',
-          ],Flutter framework that something has
-      // changed in this State, which causes it to rerun the build method below
-      // so that the display can reflect the updated vappen.
-      _counter++;ime setState is called, f
-  // This widget is the root of your application.
-  @override
+          ],Flutter framework that
   Widget build(BuildContext context) {zero; the application
         // is not restarted.
 

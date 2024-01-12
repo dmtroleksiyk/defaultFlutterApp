@@ -3,10 +3,7 @@ lso page4.clic();SelectIdle();
   }
 }
 rfg
-              '$_counter',
-          ],Flutter framework that
-  Widget build(BuildContext context) {zero; the application
-        // is not restarted.
+              '$_crestarted.
 
       body: Center(
         // Center is a layout widget. It takes a single child and positions it

@@ -4,12 +4,7 @@ lso page4.clic();SelectIdle();
 }
 rfg
         // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
-        child: Column(
-          // Column is also a layout widget. It takes a list of children and
-          /
-          // Invoke "debug painting" (press "p" in the console, choose the
-          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+        // in the middle of the parent.tter Inspector in Android
           //
           // Column has various properties to control how it sizess const 
 = daa.nst 

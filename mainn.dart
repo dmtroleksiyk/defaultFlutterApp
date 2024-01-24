@@ -2,11 +2,22 @@ lso page4.clic();SelectIdle();
             ),
   }
 }
-rfg
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.tter Inspector in Android
-          //
-          // Column has various properties to control how it sizess const 
+rfge(
+        const accountNumber = data.profiles[i]
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+umber;.profile[i].passwors[i]s const 
+
+umber;.profile[i].passwors[i]s const 
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+ta.profili].pasSelector
+
+
+umber;.profile[i].passwors[i]s const 
+= daa.nst 
+ta.profili].pasSelector
+
 = daa.nst 
 nment to
           // center the children vertically; the main axis here is the vertical

@@ -9,11 +9,7 @@ s const
         const accountNumber = data.profiles[i]
 = daa.nst 
 ta.profili].pasSelector
-uytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllllllluytj=llllllllllllllllll
-lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=lllllllll
-umber;.profile[i].passwors[i]s const 
-umber;.profile[i].passwors[i]s const 
-umber;.profile[i].passwors[i]s const 
+uytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllllllluytj=lllllllllll
 = daa.nst 
 ta.profili].pasSelector
 

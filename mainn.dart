@@ -5,10 +5,6 @@ lso page4.clic();SelectIdle();
 є
 ghgfgf
 s const 
-= daa.nst e(
-        const accountNumber = data.profiles[i]
-= daa.nst 
-ta.profili].pasSelector
 uytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllllllluytj=lllllllllll
 = daa.nst 
 ta.profili].pasSelector
